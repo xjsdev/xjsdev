@@ -1,7 +1,5 @@
 ## Hi there 👋
-<script>
-console.log('script')
-</script>
+
 <!--
 **xjsdev/xjsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
