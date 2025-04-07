@@ -1,4 +1,6 @@
-## Hi there 👋
+A resourceful and versatile tech professional with a strong foundation in computer science, hands-on experience in fullstack Node.js development, and a growing expertise in machine learning and DevOps. With over 1.5 years of commercial development experience and a background in technical support and integration, I excel at debugging, understanding complex codebases, and rapidly adapting to new technologies.
+
+Known as the go-to person when systems fail, I thrive in problem-solving scenarios and am particularly skilled at working with undocumented, prototype, or foreign-language code. I’ve worked on transforming startup ideas into production-ready applications and lead innovation in tech-driven travel and nutrition projects.
 
 <!--
 **xjsdev/xjsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
