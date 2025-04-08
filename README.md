@@ -1,18 +1,26 @@
-A resourceful and versatile tech professional with a strong foundation in computer science, hands-on experience in fullstack Node.js development, and a growing expertise in machine learning and DevOps. With over 1.5 years of commercial development experience and a background in technical support and integration, I excel at debugging, understanding complex codebases, and rapidly adapting to new technologies.
+## Professional Summary
 
-Known as the go-to person when systems fail, I thrive in problem-solving scenarios and am particularly skilled at working with undocumented, prototype, or foreign-language code. I’ve worked on transforming startup ideas into production-ready applications and lead innovation in tech-driven travel and nutrition projects.
+Experienced Full-Stack Node.js Developer in building scalable web applications. Skilled in SDK/API development, system design, and modern JavaScript ecosystems. Strong background in both frontend and backend technologies with a focus on clean architecture, performance
 
-<!--
-**xjsdev/xjsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Skills
 
-Here are some ideas to get you started:
+- Node.js
+- Vue.js
+- React
+- API Design
+- SQL & NoSQL Databases, ORM (e.g. Sequelize, TypeORM)
+- Docker
+- CI/CD, Git, Kanban
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Experience
+
+- Implemented RESTful APIs with Node.js and integrated with frontend frameworks.
+- Built secure authentication and authorization flows.
+- Optimized application performance.
+- Maintained CI/CD pipelines and Docker-based infrastructure.
+- Collaborated with cross-functional teams in Kanban environment.
+
+
+## Education
+
+Bachelor's Degree in Computer Science
