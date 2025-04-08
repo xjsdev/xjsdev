@@ -1,6 +1,6 @@
 ## Professional Summary
 
-Experienced Full-Stack Node.js Developer in building scalable web applications. Skilled in SDK/API development, system design, and modern JavaScript ecosystems. Strong background in both frontend and backend technologies with a focus on clean architecture, performance
+Experienced Full-Stack Node.js Developer in building scalable web applications. Strong background in both frontend and backend technologies with a focus on clean architecture and performance
 
 ## Core Skills
 
